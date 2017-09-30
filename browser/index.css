@@ -1,0 +1,53 @@
+h1 {
+    font-size: 1.5em;
+    margin-bottom: 40px;
+}
+
+h2 {
+    font-size: 1.2em;
+}
+
+.migrate-input {
+    width: 50px;
+}
+
+.migrate-history-list {
+    list-style: none;
+}
+
+.migrate-all {
+    border: 1px solid gray;
+    background-color: lightgray;
+    padding: 20px;
+}
+
+.migrate-all-list {
+    list-style: none;
+}
+
+.migrate-all-container {
+    max-height: 600px;
+    overflow: auto;
+}
+
+.color-red {
+    color: red;
+}
+
+.color-green {
+    color: green;
+}
+
+.migrate-up {
+    border: 1px solid gray;
+    background-color: lightgray;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.migrate-down {
+    border: 1px solid gray;
+    background-color: lightgray;
+    padding: 20px;
+    margin-top: 20px;
+}
